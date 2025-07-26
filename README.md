@@ -37,7 +37,7 @@ This Tableau dashboard analyzes over 500 hotel reviews collected from TripAdviso
 
 **Muhammed Faris**  
 Corpus Data Hub, Calicut  
-Mentored by **Rafana Ma’am** and **Nidha Ma’am**
+www.linkedin.com/in/muhammed-faris-bab127333
 
 
 ---
